@@ -55,7 +55,7 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/AppPhoto"
+        app:srcCompat="@drawable/appphoto"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="46dp" />
@@ -65,7 +65,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="14dp"
-        app:srcCompat="@drawable/AppName"
+        app:srcCompat="@drawable/appname"
         android:layout_below="@+id/imageView"
         android:layout_centerHorizontal="true" />
 
