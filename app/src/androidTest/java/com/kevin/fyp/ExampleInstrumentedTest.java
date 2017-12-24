@@ -1,4 +1,4 @@
-package fyp.kevin.comp.finalyearproject;
+package com.kevin.fyp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("fyp.kevin.comp.finalyearproject", appContext.getPackageName());
+        assertEquals("com.kevin.fyp", appContext.getPackageName());
     }
 }

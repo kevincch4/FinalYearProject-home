@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1009856333221:android:5b44ddb9b6dfae44",
         "android_client_info": {
-          "package_name": "fyp.kevin.comp.finalyearproject"
+          "package_name": "com.kevin.fyp"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "1009856333221-1c2t97rljsrhnkoq46q2hmbnodvjuq5n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "fyp.kevin.comp.finalyearproject",
+            "package_name": "com.kevin.fyp",
             "certificate_hash": "30780a625a003dddff288bfc5c14fc8ee0797864"
           }
         },

@@ -1,4 +1,4 @@
-package fyp.kevin.comp.finalyearproject;
+package com.kevin.fyp;
 
 import org.junit.Test;
 
